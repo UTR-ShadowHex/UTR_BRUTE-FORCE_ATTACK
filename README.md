@@ -3,7 +3,7 @@
 A Multi-Threaded Login Cracker for Termux & Linux.
 
 ---
-
+```
 ╔═════════════════════════════════════════════════════════╗
 ║                  BRUTE-FORCE ATTACK TOOL                          ║
 ║═════════════════════════════════════════════════════════║
@@ -12,7 +12,7 @@ A Multi-Threaded Login Cracker for Termux & Linux.
 ║       GITHUB      ║   UTR-ShadowHex                               ║
 ╚═════════════════════════════════════════════════════════╝
 
-
+```
 ---
 
 ⚠️ Legal Disclaimer
