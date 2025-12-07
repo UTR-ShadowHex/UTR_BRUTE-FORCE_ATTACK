@@ -35,7 +35,7 @@ url = input("👉 Enter login page URL (e.g. http://example.com/login.php): ")
 username = input("👉 Enter username: ")
 
 # Wordlists
-wordlists = ["rockyou.txt", "custom.txt"]
+wordlists = ["rockyou.txt", "custom.txt", "admin4digit.txt"]
 
 # Thread settings
 num_threads = 10
